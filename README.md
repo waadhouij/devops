@@ -1,6 +1,6 @@
 # devops
 
-#Pour la 1ere partie : 
+# Pour la 1ere partie : 
 
 1- a -Pour sécuriser nos communications avec des dépôts Git distants, commencez par générer une clé SSH.
 En utilisant la commande suivante :ssh-keygen -t rsa -b 4096 -C waad.houij@gmail.com.
@@ -29,13 +29,13 @@ Cela devrait afficher un message de confirmation de la connexion réussie.
 
 
 
-*******Préparation de l'environnement Git - Partie 2: Création d'un nouveau projet*****
+# Préparation de l'environnement Git - Partie 2: Création d'un nouveau projet
 
 Cette partie de notre guide se concentre sur la création d'un nouveau projet Git. 
 Vous apprendrez comment configurer votre projet sur GitHub, 
 cloner ce projet sur notre machine locale, et accéder au répertoire du projet pour commencer à travailler.
 
-**********************Préparation de l'environnement Git - Partie 3 : Concepts de base de Git************************
+# Préparation de l'environnement Git - Partie 3 : Concepts de base de Git
 
 
 1 - nous allons créer un fichier nommé index.html dans le répertoire de notre projet et y ajouter du contenu. Voici comment procéder :# Créez le fichier index.html
